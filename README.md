@@ -1,3 +1,2 @@
 # Data_Science
-Test
-:)
+Analyzing Historical Stock/Revenue Data from Tesla and GameStop
